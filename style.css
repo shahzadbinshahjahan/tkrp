@@ -1,0 +1,58 @@
+.font
+{
+    font-family: 'Fugaz One', cursive;
+
+    font-family: 'Krona One', sans-serif;
+
+    font-family: 'Radley', serif;
+}
+
+a{
+    text-decoration:none !important;
+}
+
+.main-content-font
+{
+    font-family: 'Krona One',sans-serif;
+}
+.para-content-font
+{
+    font-family:'Fugaz One',cursive;
+}
+.fsc-45
+{
+    font-size:45px;
+}
+
+#home-section
+{
+    background:url("assets/homesection.png") no-repeat;
+    background-size:cover;
+}
+#tkrp-text-logo
+{
+    /* height:74px;
+    width:325px; */
+    margin:0 1%;
+}
+.join-btn
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    background: radial-gradient(96.38% 1810.21% at 0% 26.09%, #5E0CB0 7.58%, #9180F5 54.99%, rgba(94, 11, 177, 0.99) 100%);
+    color:#CBABFF;
+    border:none;
+    border-radius:29px;
+    padding:3%;
+    font-size:18px;
+}
+
+.top-white-bar
+{
+    height:7vh;
+    max-width:50vw;
+    background-color:#ffffff;
+    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius:50px;
+}
